@@ -8,6 +8,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 
@@ -32,6 +33,7 @@ public class MainActivity extends AppCompatActivity
 
 
         Button b1 =new Button(this);
+        b1.setGravity(Gravity.CENTER);
         b1.setOnClickListener(new View.OnClickListener()
 
         {
