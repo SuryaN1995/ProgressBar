@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity
 
 
 
+        Button b1 =new Button(this);
         b1.setOnClickListener(new View.OnClickListener()
 
         {
