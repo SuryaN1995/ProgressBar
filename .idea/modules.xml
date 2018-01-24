@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appfragment/appfragment.iml" filepath="$PROJECT_DIR$/../appfragment/appfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../browze/browze.iml" filepath="$PROJECT_DIR$/../browze/browze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dododo.iml" filepath="$PROJECT_DIR$/../dododo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loginfragment/loginfragment.iml" filepath="$PROJECT_DIR$/../loginfragment/loginfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myappfragment/myappfragment.iml" filepath="$PROJECT_DIR$/../myappfragment/myappfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../navigation/navigation.iml" filepath="$PROJECT_DIR$/../navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../permissions/permissions.iml" filepath="$PROJECT_DIR$/../permissions/permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar.iml" filepath="$PROJECT_DIR$/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqldatabase/sqldatabase.iml" filepath="$PROJECT_DIR$/../sqldatabase/sqldatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trial/trial.iml" filepath="$PROJECT_DIR$/../trial/trial.iml" />
+    </modules>
+  </component>
+</project>
